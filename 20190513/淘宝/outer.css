@@ -1,0 +1,90 @@
+select{
+    border: none;
+    background: lightgray;
+}
+.headmid,.headleft,.headright{
+    display: inline-block;
+}
+.big{
+    width: 100%;
+    margin: 0px auto;
+    /*border: aqua 1px solid;*/
+    background: lightgray;
+}
+
+.headleft{
+    margin-right: 200px;
+    margin-left: 400px;
+}
+.headmid{
+    border-right: 2px solid black;
+    padding-right: 2px
+}
+.mid{
+    /*border: lightgray 1px solid;*/
+    width: 60%;
+    height: 150px;
+    margin-left: 300px;
+}
+.image{
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+.sousuo{
+    margin-left: 400px;
+    margin-top: -90px;
+}
+.inputtext{
+    border-radius: 50px;
+
+    width:800px;
+    height:40px;
+    border:solid 3px #FF802B;
+    background:  url("sousuo.png") no-repeat 723px 0;
+}
+.qita{
+    color: #FF802B;
+    margin-left: 22px;
+}
+.baobei{
+    margin-left: 22px;
+    color: white;
+    background: #FF802B;
+}
+.zi{
+    padding-right: 10px ;
+    font-size: 7px;
+}
+.zi2{
+    color: #FF802B;
+}
+.bottom{
+    background:#FF802B;
+    height: 40px;
+    width: 70%;
+    margin-left: 300px;
+}
+
+
+.f,.s,.t,.asd{
+     display: inline-block;
+     height: 30px;
+     margin-top: 8px;
+}
+.a{
+    padding: 20px;
+    color: white;
+    /*position: relative;*/
+    /*bottom: 14px;*/
+
+}
+.f,.s{
+    /*border-right: white 2px solid;*/
+    border-right: white solid 2px;
+}
+
+.asd{
+    position: relative;
+    bottom: 9px;
+}
